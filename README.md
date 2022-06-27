@@ -9,7 +9,7 @@
 #### Description
 
 + React slides simple. (swipe and responsive)
-+ Use [Swiper](https://www.npmjs.com/package/swiper) single. [Website](https://swiperjs.com).
++ Use [Swiper](https://www.npmjs.com/package/swiper) single. [website](https://swiperjs.com).
 + Small paging.
 ---
 

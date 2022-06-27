@@ -1,6 +1,6 @@
 {
   "name": "react-slides-z",
-  "version": "1.0.0-alz",
+  "version": "1.0.1",
   "description": "React slides simple. (Swipe and responsive) Hook",
   "main": "build/index.js",
   "module": "build/index.esm.js",
@@ -80,7 +80,6 @@
   },
   "dependencies": {
     "@delpi/common": ">=0.0.10",
-    "swiper": ">=7.0.0",
-    "tslib": ">=2.0.0"
+    "swiper": ">=7.0.0"
   }
 }
